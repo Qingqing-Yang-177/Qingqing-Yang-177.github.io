@@ -1,0 +1,81 @@
+title: Qingqing Yang
+description: In the journey of knowledge, truth is both the path and the destination. - Albert Einstein
+
+
+
+# Owner/author information
+owner:
+  name: Qingqing Yang
+  avatar: GRAD_QY.png
+  position: Assistant research scientist
+  affiliation: New York University
+#  bio:
+  email: qingqing.yang@nyu.edu
+  # Social networking links are used in the author-bio sidebar. 
+  #twitter: lancecai2002
+  # facebook: caihanlin2002
+  github: https://github.com/Qingqing-Yang-177
+  linkedin: www.linkedin.com/in/qingqing-yang-4a1383221
+  scholar: https://scholar.google.com/citations?user=fjmRGZQAAAAJ&hl=en&oi=sra
+
+# Analytics and webmaster tools stuff goes here
+# https://search.google.com/search-console/ownership
+#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About Me
+    url: /
+  - title: Resume
+    url: /file/Resume-QINGQING-YANG-23NYU.pdf
+  - title: Publications and Talk
+    url: /publications/
+  - title: Academic Notes
+    url: /blogs/
+#  - title: Awards
+#    url: /awards/
+  #- title: Fundings
+  #  url: /fundings/
+ # - title: Hobbies
+ #   url: /hobbies/
+
+
+timezone: US/New York EST
+future: true
+highlighter: rouge
+# markdown: kramdown
+# markdown: redcarpet
+# pygments: true
+
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  # coderay:
+  #   coderay_line_numbers:
+  #   coderay_line_numbers_start: 1
+  #   coderay_tab_width: 4
+  #   coderay_bold_every: 10
+  #   coderay_css: class
+
+font: "Serif"
+
+# disqus settings:
+disqus:
+  shortname: qqyang
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+
+# Latest update in 2023/08/21 by Qingqing Yang.
