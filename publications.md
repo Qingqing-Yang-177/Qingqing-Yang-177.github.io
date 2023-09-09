@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Publications
+## Papers and Talks
 
 Lastest Update: Aug 24th 2023
 
