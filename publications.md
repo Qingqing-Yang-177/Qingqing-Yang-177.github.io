@@ -10,7 +10,7 @@ Lastest Update: Aug 24th 2023
 
 ## Published Paper
 
-- <font color='blue'>[Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention]</font>(https://www.mdpi.com/2076-328X/13/5/426) <br> Ping Zhu†, **Qingqing Yang†**, Luo Chen, Chenxiao Guan, Jifan Zhou, Mowei Shen#, Hui Chen# (†Equal contributors; #Corresponding authors.)<br>Behavioral Sciences, 2023  <font color='red'>[Published 18 May 2023]</font>.<br>
+- <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;">Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention</a> <br> Ping Zhu†, **Qingqing Yang†**, Luo Chen, Chenxiao Guan, Jifan Zhou, Mowei Shen#, Hui Chen# (†Equal contributors; #Corresponding authors.)<br>Behavioral Sciences, 2023  <font color='red'>[Published 18 May 2023]</font>.<br>
 
 <br>
 
