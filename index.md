@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## About Me
+### About Me
 
 Hi, I am Qingqing Yang, and I just graduated with an M.A. in Psychology from New York University this May 2023. Finally, I am receiving financial recognition for my research efforts now: 
 
@@ -15,7 +15,7 @@ Hi, I am Qingqing Yang, and I just graduated with an M.A. in Psychology from New
   I'm also a **Research Assistant** in the [**Cate Hartley lab**](https://www.hartleylab.org/) at NYU with Dr. Noam Goldway, investigating the relationship among decision-making (reinforcement learning parameters), developmental and psychiatric disorders, and neural factors.
 
 ---
-## Research Interests
+### Research Interests
 
 - **Model of Cognition and Perception:** working memory, attention, decision making
 - **Computational Neuroscience:** Manifolds of neural activity, sensorimotor hierarchy
@@ -24,7 +24,7 @@ Hi, I am Qingqing Yang, and I just graduated with an M.A. in Psychology from New
 I love computational modeling in general. Nowadays, advanced technologies influence the lives of everybody. Though concerns exist, technologies are supposed to augment efficiency instead of replacing humans in the workplace. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
-## Academic Background
+### Academic Background
 
 <font color='red'> Looking for a Ph.D. position starting in 2024 Fall. </font> 
 
@@ -34,7 +34,7 @@ New York University (NYU), M.A. in Psychology
 Zhejiang University (ZJU), B.S. in Psychology
 
 
-## News and Updates
+### News and Updates
 
 - **[Aug 2023]** Start an Assistant research scientist job in Curtislab, NYU.
 - **[May 2023]** Graduate from NYU with an M.A. in Psychology.
@@ -42,7 +42,7 @@ Zhejiang University (ZJU), B.S. in Psychology
 
 ---
 
-## Teaching 
+### Teaching 
 
 - **[Jan 2022 - Jun 2022]** Course Assistant
   - [Advanced Psychological Statistics (Undergrad)](https://sites.google.com/nyu.edu/advpsystats22spring-recitation/home), New York University
