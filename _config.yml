@@ -26,11 +26,11 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Bio
     url: /
   - title: Resume
     url: /file/Resume-QINGQING-YANG-23NYU.pdf
-  - title: Publications and Talk
+  - title: Papers and Talks
     url: /publications/
   - title: Academic Notes
     url: /blogs/
