@@ -12,7 +12,7 @@ b,strong{font-weight:bold;}
 dfn{font-style:italic;}
 hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0;}
 mark{background:#ff0;color:#000;}
-code,kbd,pre,samp{font-family:monospace, serif;font-size:1em;}
+code,kbd,pre,samp{font-family:serif,monospace;font-size:1em;}
 pre{white-space:pre-wrap;}
 q{quotes:"\201C" "\201D" "\2018" "\2019";}
 small{font-size:80%;}
@@ -69,7 +69,7 @@ p{margin:0 0 1.5em;}p+p{text-indent:1.5em;margin-top:-1.5em;}
 abbr,acronym,blockquote,code,dir,kbd,listing,plaintext,q,samp,tt,var,xmp{-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;-o-hyphens:none;hyphens:none;}
 pre code{word-wrap:normal;white-space:-moz-pre-wrap;white-space:pre-wrap;}
 pre{white-space:pre;}
-code{white-space:pre;font-family:monospace;}
+code{white-space:pre;font-family:serif,monospace;}
 abbr{font-variant:small-caps;font-weight:400;text-transform:lowercase;color:#333332;}abbr:hover{cursor:help;}
 h1,h2,h3,h4,h5,h6{color:#333332;}
 .lining dt,.lining dd{display:inline;margin:0;}
