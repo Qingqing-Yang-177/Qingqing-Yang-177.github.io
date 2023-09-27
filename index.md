@@ -18,10 +18,12 @@ Hi, I am Qingqing Yang, and I just graduated with an M.A. in Psychology from New
 ### Research Interests
 
 - **Model of Cognition and Perception:** working memory, attention, decision making
-- **Computational Neuroscience:** Manifolds of neural activity, sensorimotor hierarchy
-- **Applied Machine Learning:** reinforcement learning, artificial neural networks
+- **Computational Neuroscience:** Geometry of neural population, sensorimotor hierarchy
+- **Applied Machine Learning:** reinforcement learning, artificial neural networks, Bayesian Inferences
 
-I love computational modeling in general. Nowadays, advanced technologies influence the lives of everybody. Though concerns exist, technologies are supposed to augment efficiency instead of replacing humans in the workplace. I wish to devote my talent to this meaningful cause and bring well-being to society.
+I love computational modeling in general. I question how information is embedded and processed through high-dimensional representations to perform complex functions.
+
+Nowadays, advanced technologies influence the lives of everybody. Though concerns exist, technologies are supposed to augment efficiency instead of replacing humans in the workplace. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 ### Academic Background
@@ -32,13 +34,6 @@ I love computational modeling in general. Nowadays, advanced technologies influe
 New York University (NYU), M.A. in Psychology
 - **[Sep 2017 - June 2021]** <br>
 Zhejiang University (ZJU), B.S. in Psychology
-
-
-### News and Updates
-
-- **[Aug 2023]** Start an Assistant research scientist job in Curtislab, NYU.
-- **[May 2023]** Graduate from NYU with an M.A. in Psychology.
-- **[May 2023]** The paper collaborated with Pu Zhu in Hui Chen's lab about [the mechanism of working memory-guided attention](https://www.mdpi.com/2076-328X/13/5/426) is published in Behavioral Sciences.
 
 ---
 
