@@ -12,7 +12,7 @@ Hi, I am Qingqing Yang, and I just graduated with an M.A. in Psychology from New
 
 <br>
 
-  I'm also a **Research Assistant** in the [**Cate Hartley lab**](https://www.hartleylab.org/) at NYU with Dr. Noam Goldway, investigating the relationship among decision-making (reinforcement learning parameters), developmental and psychiatric disorders, and neural factors.
+  I'm also a **Assistant Research Scientist** in the [**Cate Hartley lab**](https://www.hartleylab.org/) at NYU with Dr. Noam Goldway, investigating the relationship among decision-making (reinforcement learning parameters), developmental and psychiatric disorders, and neural factors.
 
 ---
 ### Research Interests
