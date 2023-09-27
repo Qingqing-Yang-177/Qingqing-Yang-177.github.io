@@ -4,10 +4,10 @@ permalink: /blogs/index.html
 title: blogs
 ---
 
-### Neuroimaging
+### Neuroscience
 
+- Topographic defined Spatial Visual Maps (SUMA-AFNI) (writing)
 - [Optimal TMS Coil Orientation](https://classic-comb-130.notion.site/Optimal-TMS-Coil-Orientation-67cead69b489400e82980f61b68994c1?pvs=4)
-- SUMA-AFNI Surface-Based Analysis (writing)
 
 ### Hacking
 
