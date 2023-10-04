@@ -6,7 +6,7 @@ title: blogs
 
 ### Neuroscience
 
-- [Topographic defined Spatial Visual Maps (SUMA-AFNI) (in progress)](https://classic-comb-130.notion.site/Topographical-Spatial-Visual-Maps-183d241be78e4a37b98755d7fdab9bba?pvs=4)
+- [Topographic defined Spatial Visual Maps (SUMA-AFNI)](https://classic-comb-130.notion.site/Topographical-Spatial-Visual-Maps-183d241be78e4a37b98755d7fdab9bba?pvs=4)
 - [Optimal TMS Coil Orientation](https://classic-comb-130.notion.site/Optimal-TMS-Coil-Orientation-67cead69b489400e82980f61b68994c1?pvs=4)
 
 ### Hacking
