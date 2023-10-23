@@ -21,7 +21,7 @@ title: blogs
   - [iEye_ts/wmLoads_mgs](https://github.com/Qingqing-Yang-177/iEye_qy-WMLoads/tree/iEye_ts/): My adaptation scripts for Multi-item Whole report MGS task.
   - [ieye_eyelink_tutorial](file/ieye_eyelink_tutorial.pdf): My tutorial slides for gaze-contingent task design code with MATLAB PsychToolbox EyeLink and data analysis code with iEye.
 - [MemToolbox](https://github.com/visionlab/MemToolbox): A Matlab toolbox for analyzing visual working memory data.
-  - My [Tutorial and Pipeline](https://github.com/Qingqing-Yang-177/MemToolbox_Tutorial-Pipeline/tree/master) with interactive MATLAB scripts and [Slides](https://github.com/Qingqing-Yang-177/MemToolbox_Tutorial-Pipeline/blob/master/tutorial_slides.pdf)
+  - My [Tutorial and Pipeline](https://github.com/Qingqing-Yang-177/MemToolbox_Tutorial-Pipeline/tree/master) with interactive MATLAB scripts and [Slides](file/memtoolbox_tutorial_slides.pdf)
 
 
 <br>
