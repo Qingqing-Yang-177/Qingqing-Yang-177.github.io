@@ -15,9 +15,9 @@ title: blogs
 - [Bash Tips](https://classic-comb-130.notion.site/ssh-Issues-baa2e0ac79a54d108c5ace253c709eca?pvs=4)
 - [Remote Control - Mac](https://classic-comb-130.notion.site/Remote-Control-Mac-02d1741e3bc74ca69758ba912a1a3ad9?pvs=4)
 
-## Resources
+### Resources
 
-- [iEye](https://wemackey.github.io/iEye/) - translate the raw data (eye-tracking EDF) into scored responses on each trial for memory-guided saccade (MGS) tasks.
+- [iEye](https://wemackey.github.io/iEye/) - A package translate the raw data (eye-tracking EDF) into scored responses on each trial for memory-guided saccade (MGS) tasks.
   - [iEye/wmload_mgs](https://github.com/Qingqing-Yang-177/iEye_qy-WMLoads/tree/iEye_ts/) is my adaptation scripts for Multi-item Whole report MGS task.
 - [MemToolbox](https://github.com/visionlab/MemToolbox) - A Matlab toolbox for analyzing visual working memory data.
   - My [Tutorial and Pipeline](https://github.com/Qingqing-Yang-177/MemToolbox_Tutorial-Pipeline/tree/master) with interactive MATLAB scripts and [Slides](https://github.com/Qingqing-Yang-177/MemToolbox_Tutorial-Pipeline/blob/master/tutorial_slides.pdf)
