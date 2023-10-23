@@ -15,9 +15,10 @@ title: blogs
 - [Bash Tips](https://classic-comb-130.notion.site/ssh-Issues-baa2e0ac79a54d108c5ace253c709eca?pvs=4)
 - [Remote Control - Mac](https://classic-comb-130.notion.site/Remote-Control-Mac-02d1741e3bc74ca69758ba912a1a3ad9?pvs=4)
 
-### Machine Learning
+## Resources
 
-- coming soon
+- iEye - 
+- MemToolbox - A Matlab toolbox for analyzing visual working memory data.
 
 
 <br>
