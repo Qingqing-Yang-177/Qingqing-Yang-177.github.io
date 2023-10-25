@@ -18,7 +18,7 @@ Hi, I am Qingqing Yang, and I just graduated with an M.A. in Psychology from New
 ### Research Interests
 
 - **Cognition and Perception:** working memory, attention, cognitive control
-- **Computational Neuroscience:** dynamic and adaptive neural activity, geometry of neural population, sensorimotor hierarchy, mental states
+- **Computational Neuroscience:** dynamic and adaptive neural activity, neural geometry, sensorimotor hierarchy, mental states
 - **Applied Machine Learning:** reinforcement learning, artificial neural networks, Bayesian Inferences
 
 I love computational modeling in general. I question how information is embedded and processed through high-dimensional representations to perform complex functions.
