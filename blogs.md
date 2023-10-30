@@ -22,6 +22,6 @@ title: blogs
   - [ieye_eyelink_tutorial](file/ieye_eyelink_tutorial.pdf): My tutorial slides for gaze-contingent task design code with MATLAB PsychToolbox EyeLink and data analysis code with iEye.
 - [MemToolbox](https://github.com/visionlab/MemToolbox): A Matlab toolbox for analyzing visual working memory data.
   - My [Tutorial and Pipeline](https://github.com/Qingqing-Yang-177/MemToolbox_Tutorial-Pipeline/tree/master) with interactive MATLAB scripts and [Slides](file/memtoolbox_tutorial_slides.pdf)
-- [CCN 2023 | Tutorial - A High-Dimensional View of Neuroscience](https://bonnerlab.github.io/ccn-tutorial/)
+- [Tutorial - A High-Dimensional View of Neuroscience](https://bonnerlab.github.io/ccn-tutorial/): Tutorial session at Cognitive Computational Neuroscience 2023, about Computational tools to study neural representations in high dimensions. Each section is a computational notebook.
 
 <br>
