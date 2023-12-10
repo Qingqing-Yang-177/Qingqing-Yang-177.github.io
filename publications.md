@@ -23,7 +23,7 @@ Cuevas, Greer Bizzell-Hatcher, Gal Shoval, Eran Eldar, Yael Niv, Catherine A. Ha
 
 
 
-- <a href= "mypaper/yang_qingqing_rmePoster_expectedresults.pdf" style="color: blue;">Modeling Effects of Interrupting Parietal Cortex Neural Activity on Working Memory Limit</a> <br> **Qingqing Yang**, Mu Li, Clayton Curtis <br>2022 neuromatch conference (NMC) flash talk. Sep 2022
+- <a href= "/mypaper/yang_qingqing_rmePoster_expectedresults.pdf" style="color: blue;">Modeling Effects of Interrupting Parietal Cortex Neural Activity on Working Memory Limit</a> <br> **Qingqing Yang**, Mu Li, Clayton Curtis <br>2022 neuromatch conference (NMC) flash talk. Sep 2022
 
 <br>
 
