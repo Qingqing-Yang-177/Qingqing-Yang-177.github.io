@@ -23,8 +23,8 @@ title: blogs
 #### Data Processing
 
 - [iEye](https://wemackey.github.io/iEye/): A package translate the eye-tracking raw EDF into scored responses on each trial for memory-guided saccade (MGS) tasks. 
-  - [iEye_ts/wmLoads_mgs](https://github.com/Qingqing-Yang-177/iEye_qy-WMLoads/tree/iEye_ts/): My adaptation for Multi-item Whole report MGS task.
-  - [ieye_eyelink_tutorial](file/ieye_eyelink_tutorial.pdf): My slides for gaze-contingent task design with PsychToolbox EyeLink and data analysis with iEye.
+  - [iEye_ts/wmLoads_mgs](https://github.com/Qingqing-Yang-177/iEye_qy-WMLoads/tree/iEye_ts/): My adapted package for Multi-item Whole report MGS task.
+  - [ieye_eyelink_tutorial](file/ieye_eyelink_tutorial.pdf): My slides for gaze-contingent Experiment with PsychToolbox EyeLink, and analysis with iEye.
 <br>
 
 #### Comp Modeling
