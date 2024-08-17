@@ -31,5 +31,5 @@ title: blogs
   - [My Tutorial](https://github.com/Qingqing-Yang-177/MemToolbox_Tutorial-Pipeline/tree/master) with MATLAB scripts
 <br>
 
-- [Tutorial - A High-Dimensional View of Neuroscience](https://bonnerlab.github.io/ccn-tutorial/): Tutorial session at CCN 2023. By Michael Bonner, Johns Hopkins University.
+- [Tutorial - A High-Dimensional View of Neuroscience](https://bonnerlab.github.io/ccn-tutorial/): Tutorial session at CCN 2023. By Michael Bonner, JHU.
 <br>
