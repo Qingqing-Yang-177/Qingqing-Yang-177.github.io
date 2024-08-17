@@ -20,14 +20,14 @@ title: blogs
 
 ### Resources
 
-- [iEye](https://wemackey.github.io/iEye/): A package translate the raw data (eye-tracking EDF) into scored responses on each trial for memory-guided saccade (MGS) tasks. 
-  - [iEye_ts/wmLoads_mgs](https://github.com/Qingqing-Yang-177/iEye_qy-WMLoads/tree/iEye_ts/): My adaptation scripts for Multi-item Whole report MGS task.
-  - [ieye_eyelink_tutorial](file/ieye_eyelink_tutorial.pdf): My tutorial slides for gaze-contingent task design code with MATLAB PsychToolbox EyeLink and data analysis code with iEye.
+- [iEye](https://wemackey.github.io/iEye/): A package translate the eye-tracking raw EDF into scored responses on each trial for memory-guided saccade (MGS) tasks. 
+  - [iEye_ts/wmLoads_mgs](https://github.com/Qingqing-Yang-177/iEye_qy-WMLoads/tree/iEye_ts/): My adaptation for Multi-item Whole report MGS task.
+  - [ieye_eyelink_tutorial](file/ieye_eyelink_tutorial.pdf): My slides for gaze-contingent task design with PsychToolbox EyeLink and data analysis with iEye.
 <br>
 
 - [MemToolbox](https://github.com/visionlab/MemToolbox): A Matlab toolbox for analyzing visual working memory data. By Timothy Brady, UC San Diego.
-  - My [Tutorial and Pipeline](https://github.com/Qingqing-Yang-177/MemToolbox_Tutorial-Pipeline/tree/master) with MATLAB scripts and [Slides](file/memtoolbox_tutorial_slides.pdf)
+  - [My Tutorial](https://github.com/Qingqing-Yang-177/MemToolbox_Tutorial-Pipeline/tree/master) with MATLAB scripts
 <br>
 
-- [Tutorial - A High-Dimensional View of Neuroscience](https://bonnerlab.github.io/ccn-tutorial/): Tutorial session at Cognitive Computational Neuroscience 2023, about Computational tools to study neural representations in high dimensions. By Michael Bonner, Johns Hopkins University.
+- [Tutorial - A High-Dimensional View of Neuroscience](https://bonnerlab.github.io/ccn-tutorial/): Tutorial session at CCN 2023. By Michael Bonner, Johns Hopkins University.
 <br>
