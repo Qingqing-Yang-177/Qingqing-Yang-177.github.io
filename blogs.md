@@ -4,12 +4,12 @@ permalink: /blogs/index.html
 title: blogs
 ---
 
-### Neurocognitive
+## Neurocognitive
 
 - [Optimal TMS Coil Orientation](https://classic-comb-130.notion.site/Optimal-TMS-Coil-Orientation-67cead69b489400e82980f61b68994c1?pvs=4)
 - [Topographic defined Spatial Visual Maps (SUMA-AFNI)](https://classic-comb-130.notion.site/Topographical-Spatial-Visual-Maps-183d241be78e4a37b98755d7fdab9bba?pvs=4)
 
-### Hacking and Data Science
+## Hacking and Data Science
 
 - [Submit SBATCH Jobs to HPC Slurm](https://classic-comb-130.notion.site/Submit-Jobs-to-HPC-Slurm-34dfb2417fa0407da32dae4002401d5e?pvs=4)
 - [Bash, AWS, and SSH Tips](https://classic-comb-130.notion.site/Bash-AWS-and-SSH-Tips-baa2e0ac79a54d108c5ace253c709eca?pvs=4)
@@ -18,7 +18,8 @@ title: blogs
 - [Installation of ANTs](https://classic-comb-130.notion.site/Installation-of-ANTs-fcb270a1f15e4908a6b49ed4f0390c94?pvs=4)
 - [dmriprep topup odd slices error solution](https://classic-comb-130.notion.site/dmriprep-topup-error-solution-225284d1815c414382ec5b2ef754a760?pvs=4)
 
-### Resources
+## Resources
+
 #### Data Processing
 
 - [iEye](https://wemackey.github.io/iEye/): A package translate the eye-tracking raw EDF into scored responses on each trial for memory-guided saccade (MGS) tasks. 
