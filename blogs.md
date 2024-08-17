@@ -19,12 +19,14 @@ title: blogs
 - [dmriprep topup odd slices error solution](https://classic-comb-130.notion.site/dmriprep-topup-error-solution-225284d1815c414382ec5b2ef754a760?pvs=4)
 
 ### Resources
+#### Data Processing
 
 - [iEye](https://wemackey.github.io/iEye/): A package translate the eye-tracking raw EDF into scored responses on each trial for memory-guided saccade (MGS) tasks. 
   - [iEye_ts/wmLoads_mgs](https://github.com/Qingqing-Yang-177/iEye_qy-WMLoads/tree/iEye_ts/): My adaptation for Multi-item Whole report MGS task.
   - [ieye_eyelink_tutorial](file/ieye_eyelink_tutorial.pdf): My slides for gaze-contingent task design with PsychToolbox EyeLink and data analysis with iEye.
 <br>
 
+#### Comp Modeling
 - [MemToolbox](https://github.com/visionlab/MemToolbox): A Matlab toolbox for analyzing visual working memory data. By Timothy Brady, UC San Diego.
   - [My Tutorial](https://github.com/Qingqing-Yang-177/MemToolbox_Tutorial-Pipeline/tree/master) with MATLAB scripts
 <br>
