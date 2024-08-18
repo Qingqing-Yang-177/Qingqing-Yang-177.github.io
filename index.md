@@ -19,14 +19,14 @@ Hi, I am Qingqing Yang, and I just started my PhD in Cogitive Neuroscience at th
 I love computational modeling in general. I question how metal computation is realized to perform complex functions among human and machines, and how the deepened understanding of each aspect benefit each other.
 
 ---
-### Work Experience
+### Research Experience
 
 - **[Aug 2023 - Apr 2024]**
 **Assistant Research Scientist, NYU]**
-[**Clay Curtis lab**](https://www.clayspacelab.com/lab), running a TMS, fMRI, and eye-tracking integrated spatial working memory study, which focuses on the role of parietal cortex.
+in [**Clay Curtis lab**](https://www.clayspacelab.com/lab), running a TMS, fMRI, and eye-tracking integrated spatial working memory study, which focuses on the role of parietal cortex.
 - **[Sep 2023 - Apr 2024]**
 **Assistant Research Scientist, NYU]**
-[**Cate Hartley lab**](https://www.hartleylab.org/) at NYU with [**Dr. Noam Goldway**](https://scholar.google.com/citations?user=0tVFPecAAAAJ&hl=en), investigating the relationship among decision-making (RL parameters), developmental and psychiatric disorders, and their neural factors.
+in [**Cate Hartley lab**](https://www.hartleylab.org/) at NYU with [**Dr. Noam Goldway**](https://scholar.google.com/citations?user=0tVFPecAAAAJ&hl=en), investigating the relationship among decision-making (RL parameters), developmental and psychiatric disorders, and their neural factors.
 
 btw Noam is going to be a prof at Birkbeck, University of London starting around 2025! congrats, Noam! Potentially hiring...
 
