@@ -4,32 +4,35 @@ layout: page
 
 ### About Me
 
-Hi, I am Qingqing Yang, and I just graduated with an M.A. in Psychology from New York University this May 2023. Finally, I am receiving financial recognition for my research efforts now: 
+Hi, I am Qingqing Yang, and I just started my PhD in Cogitive Neuroscience at the Ohio State University this Aug 2024, working with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/).
 
-<br>
-
-  As an **Assistant Research Scientist** in the [**Clay Curtis lab**](https://www.clayspacelab.com/lab) at NYU, I'm running a TMS, fMRI, and eye-tracking integrated spatial working memory study, which focuses on the role of parietal cortex on resource allocation strategy. 
-
-<br>
-
-  I'm also an **Assistant Research Scientist** in the [**Cate Hartley lab**](https://www.hartleylab.org/) at NYU with Dr. Noam Goldway, investigating the relationship among decision-making (reinforcement learning parameters), developmental and psychiatric disorders, and neural factors.
+`last update: Aug 2024`
 
 ---
 ### Research Interests
 
-- **Cognition:** memory, attention, cognitive control
-- **Computational Neuroscience:** dynamic and adaptive neural activity, neural geometry, sensorimotor hierarchy, mental states
-- **Applied Machine Learning:** reinforcement learning, artificial neural networks, Bayesian Inferences
+- **Cognition:** visual perception, attention, memory, learning and decision making
+- **Neural Imaging:** task-fMRI, rs-fMRI, dMRI, EEG, TMS
+- **Computational Neuroscience:** neural geometry, neural dynamics
+- **Applied Machine Learning:** reinforcement learning, ANNs, Bayesian Inferences, model interpretability
 
-I love computational modeling in general. I question how information is embedded and processed through high-dimensional neural population activities to perform complex functions.
+I love computational modeling in general. I question how metal computation is realized to perform complex functions among human and machines, and how the understanding of each aspect benefit the other one.
 
-Nowadays, advanced technologies influence the lives of everybody. I wish to devote my talent to this meaningful cause and bring well-being to society.
+---
+### Work Experience
+
+- **[Aug 2023 - Apr 2024]**
+**Assistant Research Scientist, NYU]**
+[**Clay Curtis lab**](https://www.clayspacelab.com/lab), running a TMS, fMRI, and eye-tracking integrated spatial working memory study, which focuses on the role of parietal cortex.
+- **[Sep 2023 - Apr 2024]**
+**Assistant Research Scientist, NYU]**
+[**Cate Hartley lab**](https://www.hartleylab.org/) at NYU with Dr. Noam Goldway, investigating the relationship among decision-making (RL parameters), developmental and psychiatric disorders, and their neural factors.
 
 ---
 ### Academic Background
 
-<font color='red'> Looking for a Ph.D. position starting in 2024 Fall. </font> 
-
+- **[Aug 2023 - Expected 2030]** <br>
+The Ohio State University (OSU), PhD in CogNeuro
 - **[Sep 2021 - May 2023]** <br>
 New York University (NYU), M.A. in Psychology
 - **[Sep 2017 - June 2021]** <br>
