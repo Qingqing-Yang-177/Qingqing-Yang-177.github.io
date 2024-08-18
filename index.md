@@ -26,7 +26,9 @@ I love computational modeling in general. I question how metal computation is re
 [**Clay Curtis lab**](https://www.clayspacelab.com/lab), running a TMS, fMRI, and eye-tracking integrated spatial working memory study, which focuses on the role of parietal cortex.
 - **[Sep 2023 - Apr 2024]**
 **Assistant Research Scientist, NYU]**
-[**Cate Hartley lab**](https://www.hartleylab.org/) at NYU with Dr. Noam Goldway, investigating the relationship among decision-making (RL parameters), developmental and psychiatric disorders, and their neural factors.
+[**Cate Hartley lab**](https://www.hartleylab.org/) at NYU with [**Dr. Noam Goldway**](https://scholar.google.com/citations?user=0tVFPecAAAAJ&hl=en), investigating the relationship among decision-making (RL parameters), developmental and psychiatric disorders, and their neural factors.
+
+btw Noam is going to be a prof at Birkbeck, University of London starting next year! congrats, Noam!
 
 ---
 ### Academic Background
