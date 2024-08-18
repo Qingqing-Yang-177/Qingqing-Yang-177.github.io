@@ -28,7 +28,7 @@ I love computational modeling in general. I question how metal computation is re
 **Assistant Research Scientist, NYU]**
 [**Cate Hartley lab**](https://www.hartleylab.org/) at NYU with [**Dr. Noam Goldway**](https://scholar.google.com/citations?user=0tVFPecAAAAJ&hl=en), investigating the relationship among decision-making (RL parameters), developmental and psychiatric disorders, and their neural factors.
 
-btw Noam is going to be a prof at Birkbeck, University of London starting next year! congrats, Noam!
+btw Noam is going to be a prof at Birkbeck, University of London starting around 2025! congrats, Noam! Potentially hiring...
 
 ---
 ### Academic Background
