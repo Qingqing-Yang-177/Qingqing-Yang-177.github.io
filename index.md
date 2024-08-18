@@ -16,7 +16,7 @@ Hi, I am Qingqing Yang, and I just started my PhD in Cogitive Neuroscience at th
 - **Computational Neuroscience:** neural geometry, neural dynamics
 - **Applied Machine Learning:** reinforcement learning, ANNs, Bayesian Inferences, model interpretability
 
-I love computational modeling in general. I question how metal computation is realized to perform complex functions among human and machines, and how the understanding of each aspect benefit the other one.
+I love computational modeling in general. I question how metal computation is realized to perform complex functions among human and machines, and how the deepened understanding of each aspect benefit each other.
 
 ---
 ### Work Experience
