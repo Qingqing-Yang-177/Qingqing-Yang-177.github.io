@@ -19,11 +19,9 @@ I love computational modeling in general. I question how metal computation is re
 ---
 ### Research Experience
 
-- **[Aug 2023 - Apr 2024]** as an Assistant Research Scientist @NYU
-
+- **[Aug 2023 - Apr 2024]** as an Assistant Research Scientist @NYU<br>
 Work with [**Prof. Clay Curtis**](https://www.clayspacelab.com/lab), running a TMS, fMRI, and eye-tracking integrated spatial working memory study, which focuses on the role of parietal cortex.
-- **[Sep 2023 - Apr 2024]** as an Assistant Research Scientist @NYU
-
+- **[Sep 2023 - Apr 2024]** as an Assistant Research Scientist @NYU<br>
 Work with [**Prof. Cate Hartley**](https://www.hartleylab.org/), and [**Dr. Noam Goldway**](https://scholar.google.com/citations?user=0tVFPecAAAAJ&hl=en), investigating the relationship among decision-making (RL parameters), developmental and psychiatric disorders, and their neural factors.
 
 btw Noam is going to be a prof at Birkbeck, University of London starting around 2025! Happyy for you, Noam! Potentially hiring...
