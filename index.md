@@ -4,9 +4,7 @@ layout: page
 
 ### About Me
 
-Hi, I am Qingqing Yang, and I just started my PhD in Cogitive Neuroscience at the Ohio State University this Aug 2024, working with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/).
-
-`last update: Aug 2024`
+Hi, I am Qingqing Yang, and I just started my PhD in Cogitive Neuroscience at the Ohio State University this Aug 2024, working with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). `last update: Aug 2024`
 
 ---
 ### Research Interests
