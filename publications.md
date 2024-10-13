@@ -32,7 +32,7 @@ Ping Zhu*, **Qingqing Yang***, Luo Chen, Chenxiao Guan, Jifan Zhou, Mowei Shen<s
 <a href="/mypaper/Frame4.pdf" style="color: blue;">Reliability of a Reinforcement-Learning Task Battery for Computational Phenotyping of Decision-Making in Adolescent Psychopathology</a> Noam Goldway, Levi Solomyak, Gili Karni, Sam Zorowitz, Rachel Stollar, **Qingqing Yang**, Sophia Nielsen, Rosaura Cuevas, Greer Bizzell-Hatcher, Gal Shoval, Eran Eldar<sup>#</sup>, Yael Niv<sup>#</sup>, Catherine A. Hartley<sup>#</sup>. _Computational Psychiatry Conference (cpconf2023). Jul 2023_ <br>
 
 #### Talk
-<a href= "/mypaper/yang_qingqing_rmePoster_expectedresults.pdf" style="color: blue;">Modeling Effects of Interrupting Parietal Cortex Neural Activity on Working Memory Limit</a> **Qingqing Yang**, Mu Li, Clayton Curtis<sup>#</sup>. _neuromatch conference (NMC) flash talk. Sep 2022_ <br>
+<a href= "/mypaper/yang_qingqing_rmePoster_expectedresults.pdf" style="color: blue;">Modeling Effects of Interrupting Parietal Cortex Neural Activity on Working Memory Limit</a> **Qingqing Yang**, Mu Li, Clayton Curtis<sup>#</sup>. _Neuromatch Conference (NMC) flash talk. Sep 2022_ <br>
 
 ---
 
