@@ -14,7 +14,7 @@ Lastest Update: Oct 12 2024
 
 <div style="margin: 0;">
 <span style="color: blue;">Investigating the role of modality and training objective on representational alignment between transformers and the brain.</span> Hyewon Willow Han\*, Ruchira Dhar\*, **Qingqing Yang\***, Maryam Hoseini Behbahani, María Alejandra Martínez Ortiz, Tolulope Samuel Oladele, Diana C Dima, Hsin-Hung Li<sup>#</sup>, Anders Søgaard<sup>#</sup>, Yalda Mohsenzadeh<sup>#</sup>. <em>Unireps Workshop, NeurIPS 2024.</em> [Final version in perp.]
-</div>
+</div><br>
 
 <div style="margin: 0;">
 <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;">Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention.</a> Ping Zhu\*, **Qingqing Yang\***, Luo Chen, Chenxiao Guan, Jifan Zhou, Mowei Shen<sup>#</sup>, Hui Chen<sup>#</sup>. <em>Behavioral Sciences, 2023.</em>
