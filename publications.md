@@ -7,7 +7,6 @@ title: Publications
 ## Publications
 
 Lastest Update: Oct 12 2024
-
 <div style="margin: 0; font-size: 0.9em;">
   *denotes equal contribution<br>
   <sup>#</sup>denotes corresponding author
