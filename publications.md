@@ -12,9 +12,7 @@ Lastest Update: Oct 12 2024
 *denotes equal contribution <br>
 <sup>#</sup>denotes corresponding author
 
-<a style="color: black;">Investigating the role of modality and training objective on representational alignment between transformers and the brain <br> </a> Hyewon Willow Han*, Ruchira Dhar*, Qingqing Yang*, Maryam Hoseini Behbahani, María Alejandra Martínez Ortiz, Tolulope Samuel Oladele, Diana C Dima, Hsin-Hung Li<sup>#</sup>, Anders Søgaard<sup>#</sup>, Yalda Mohsenzadeh<sup>#</sup>. Unireps Workshop, NeurIPS 2024.
-
-<a style="color: black;">Attention Redistribution During Event Segmentation In Large Language Model.</a> Behavioral ML Workshop, NeurIPS 2024. 
+<a style="color: blue;">Investigating the role of modality and training objective on representational alignment between transformers and the brain </a> <br>Hyewon Willow Han*, Ruchira Dhar*, **Qingqing Yang***, Maryam Hoseini Behbahani, María Alejandra Martínez Ortiz, Tolulope Samuel Oladele, Diana C Dima, Hsin-Hung Li<sup>#</sup>, Anders Søgaard<sup>#</sup>, Yalda Mohsenzadeh<sup>#</sup>. Unireps Workshop, NeurIPS 2024. [accepted, final version in perp.]
 
 <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;">Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention</a> <br> Ping Zhu*, **Qingqing Yang***, Luo Chen, Chenxiao Guan, Jifan Zhou, Mowei Shen<sup>#</sup>, Hui Chen<sup>#</sup>. Behavioral Sciences, 2023.<br>
 
