@@ -8,11 +8,12 @@ title: Publications
 
 Lastest Update: Oct 12 2024
 
-### Paper
 <div style="margin: 0; font-size: 0.9em;">
   *denotes equal contribution<br>
   <sup>#</sup>denotes corresponding author
 </div>
+
+### Paper
 
 <div style="margin: 0; margin-bottom: 16px;">
   <span style="color: blue;">Investigating the role of modality and training objective on representational alignment between transformers and the brain.</span> Hyewon Willow Han*, Ruchira Dhar*, <strong>Qingqing Yang*</strong>, Maryam Hoseini Behbahani, María Alejandra Martínez, Tolulope Oladele, Diana C Dima, Hsin-Hung Li<sup>#</sup>, Anders Søgaard<sup>#</sup>, Yalda Mohsenzadeh<sup>#</sup>. <em>Unireps Workshop, NeurIPS 2024.</em> [Final version in perp.]
