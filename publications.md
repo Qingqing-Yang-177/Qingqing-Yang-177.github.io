@@ -25,13 +25,10 @@ Attention Redistribution During Event Segmentation In Large Language Model. Beha
 ### Scientific Presentation
 #### Poster
 
-<a href="/mypaper/Frame4.pdf" style="color: blue;">Reliability of a Reinforcement-Learning Task Battery for Computational Phenotyping of Decision-Making in Adolescent Psychopathology</a> <br>Noam Goldway, Levi Solomyak, Gili Karni, Sam Zorowitz, Rachel Stollar, **Qingqing Yang**, Sophia Nielsen, Rosaura 
-Cuevas, Greer Bizzell-Hatcher, Gal Shoval, Eran Eldar, Yael Niv, Catherine A. Hartley. Computational Psychiatry Conference (cpconf2023). Jul 2023<br>
+<a href="/mypaper/Frame4.pdf" style="color: blue;">Reliability of a Reinforcement-Learning Task Battery for Computational Phenotyping of Decision-Making in Adolescent Psychopathology</a> <br>Noam Goldway, Levi Solomyak, Gili Karni, Sam Zorowitz, Rachel Stollar, **Qingqing Yang**, Sophia Nielsen, Rosaura Cuevas, Greer Bizzell-Hatcher, Gal Shoval, Eran Eldar<sup>#</sup>, Yael Niv<sup>#</sup>, Catherine A. Hartley<sup>#</sup>. Computational Psychiatry Conference (cpconf2023). Jul 2023<br>
 
 #### Talk
-<a href= "/mypaper/yang_qingqing_rmePoster_expectedresults.pdf" style="color: blue;">Modeling Effects of Interrupting Parietal Cortex Neural Activity on Working Memory Limit</a> <br> **Qingqing Yang**, Mu Li, Clayton Curtis<sup>#</sup>. 2022 neuromatch conference (NMC) flash talk. Sep 2022
-
-<br>
+<a href= "/mypaper/yang_qingqing_rmePoster_expectedresults.pdf" style="color: blue;">Modeling Effects of Interrupting Parietal Cortex Neural Activity on Working Memory Limit</a> <br> **Qingqing Yang**, Mu Li, Clayton Curtis<sup>#</sup>. 2022 neuromatch conference (NMC) flash talk. Sep 2022<br>
 
 ---
 
