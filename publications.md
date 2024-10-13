@@ -12,7 +12,7 @@ title: Publications
   <sup>#</sup>denotes corresponding author
 </div>
 
----
+
 ### Paper
 
 <div style="margin: 0; margin-bottom: 20px;">
