@@ -10,8 +10,9 @@ title: Publications
   Lastest Update: Oct 12 2024<br>
   *denotes equal contribution<br>
   <sup>#</sup>denotes corresponding author
-</div><br>
+</div>
 
+---
 ### Paper
 
 <div style="margin: 0; margin-bottom: 20px;">
