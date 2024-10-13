@@ -6,8 +6,8 @@ title: Publications
 
 ## Publications
 
-<div style="margin: 0; font-size: 0.9em;">
-  Lastest Update: Oct 12 2024
+<div style="margin: 0; font-size: 1em;">
+  Lastest Update: Oct 12 2024<br>
   *denotes equal contribution<br>
   <sup>#</sup>denotes corresponding author
 </div>
@@ -19,7 +19,7 @@ title: Publications
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
-  <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;">Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention.</a> Ping Zhu*, <strong>Qingqing Yang*</strong>, Luo Chen, Chenxiao Guan, Jifan Zhou, Mowei Shen<sup>#</sup>, Hui Chen<sup>#</sup>. <em>Behavioral Sciences, 2023.</em>
+  <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;">Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention.</a> Ping Zhu*, <strong>Qingqing Yang*</strong>, Luo Chen, Chenxiao Guan, Jifan Zhou, Mowei Shen<sup>#</sup>, Hui Chen<sup>#</sup>. <em>Behavioral Sciences, 2023.</em> https://doi.org/10.3390/bs13050426
 </div>
 
 ---
