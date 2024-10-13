@@ -10,7 +10,8 @@ Lastest Update: Oct 12 2024
 
 ### Paper
 <div style="margin: 0; font-size: 0.9em;">
-  *denotes equal contribution; <sup>#</sup>denotes corresponding author
+  *denotes equal contribution; 
+  <sup>#</sup>denotes corresponding author
 </div>
 
 <div style="margin: 0; margin-bottom: 16px;">
