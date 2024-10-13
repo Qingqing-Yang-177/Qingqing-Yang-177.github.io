@@ -9,7 +9,7 @@ title: Publications
 Lastest Update: Oct 12 2024
 
 ### Paper
-*denotes equal contribution
+*denotes equal contribution <br>
 #denotes corresponding author
 
 - Investigating the role of modality and training objective on representational alignment between transformers and the brain </a> <br> Hyewon Willow Han*, Ruchira Dhar*, Qingqing Yang*, Maryam Hoseini Behbahani, María Alejandra Martínez Ortiz, Tolulope Samuel Oladele, Diana C Dima, Hsin-Hung Li#, Anders Søgaard#, Yalda Mohsenzadeh# <br>Unireps Workshop, 38th Conference on Neural Information Processing Systems (NeurIPS 2024).
