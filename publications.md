@@ -20,7 +20,7 @@ title: Publications
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
-  <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;>Investigating the role of modality and training objective on representational alignment between transformers and the brain.</span> Yuyang Xu, <strong>Qingqing Yang</strong>. <em>Behavioral ML Workshop, NeurIPS 2024.</em>
+  <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;>Attention redistribution during event segmentation in Large Language Model.</a> Yuyang Xu, <strong>Qingqing Yang</strong>. <em>Behavioral ML Workshop, NeurIPS 2024.</em>
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
