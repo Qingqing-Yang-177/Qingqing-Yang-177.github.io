@@ -28,7 +28,7 @@ title: Publications
 ### Scientific Presentation
 ##### Poster
 <div style="margin: 0; margin-bottom: 20px;">
-   <a href="https://www.abstractsonline.com/pp8/#!/20433/presentation/28650" style="color: blue;">Correspondence between computational decision-making phenotypes and transdiagnostic clinical symptomatology across development.</a> Noam Goldway, <strong>Qingqing Yang</strong>, Sophia Nielsen, Levi Solomyak, Sam Zorowitz, Eran Eldar<sup>#</sup>, Yael Niv<sup>#</sup>, Catherine Hartley<sup>#</sup>. <em>Society for Neuroscience (SfN2024). Oct 2024</em>
+   <a href="/mypaper/sfn_2024_noam_poster.pptx" style="color: blue;">Correspondence between computational decision-making phenotypes and transdiagnostic clinical symptomatology across development.</a> Noam Goldway, <strong>Qingqing Yang</strong>, Sophia Nielsen, Levi Solomyak, Sam Zorowitz, Eran Eldar<sup>#</sup>, Yael Niv<sup>#</sup>, Catherine Hartley<sup>#</sup>. <em>Society for Neuroscience (SfN2024). Oct 2024</em> https://www.abstractsonline.com/pp8/#!/20433/presentation/28650
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
