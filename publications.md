@@ -20,8 +20,9 @@ title: Publications
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
-  <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;>Attention redistribution during event segmentation in Large Language Model.</a> Yuyang Xu, <strong>Qingqing Yang</strong>. <em>Behavioral ML Workshop, NeurIPS 2024.</em>
+  <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;">Attention redistribution during event segmentation in Large Language Model.</a> Yuyang Xu, <strong>Qingqing Yang</strong>. <em>Behavioral ML Workshop, NeurIPS 2024.</em>
 </div>
+
 
 <div style="margin: 0; margin-bottom: 20px;">
   <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;">Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention.</a> Ping Zhu*, <strong>Qingqing Yang*</strong>, Luo Chen, Chenxiao Guan, Jifan Zhou, Mowei Shen<sup>#</sup>, Hui Chen<sup>#</sup>. <em>Behavioral Sciences, 2023.</em>
