@@ -5,11 +5,10 @@ title: Publications
 ---
 
 ## Publications
-<div style="margin: 0; font-size: .9em; margin-bottom: 10px;">
+<div style="margin: 0; font-size: .9em; margin-bottom: 5px;">
   *denotes equal contribution<br>
   <sup>#</sup>denotes corresponding author
 </div>
-
 `Lastest update: Oct 2024`
 
 ### Paper
