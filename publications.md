@@ -5,9 +5,9 @@ title: Publications
 ---
 
 ## Publications
+`Lastest update: Oct 2024`
 
 <div style="margin: 0; font-size: .9em; margin-bottom: 10px;">
-  `Lastest update: Oct 2024`<br>
   *denotes equal contribution<br>
   <sup>#</sup>denotes corresponding author
 </div>
