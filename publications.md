@@ -14,7 +14,7 @@ title: Publications
 ### Paper
 
 <div style="margin: 0; margin-bottom: 20px;">
-  <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;">Investigating the role of modality and training objective on representational alignment between transformers and the brain.</a> Hyewon Willow Han*, Ruchira Dhar*, <strong>Qingqing Yang*</strong>, Maryam Hoseini Behbahani, María Alejandra Martínez, Tolulope Oladele, Diana C Dima, Hsin-Hung Li<sup>#</sup>, Anders Søgaard<sup>#</sup>, Yalda Mohsenzadeh<sup>#</sup>. <em>Unireps Workshop, NeurIPS 2024.</em> 
+  <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;">Investigating the role of modality and training objective on representational alignment between transformers and the brain.</a> Hyewon Willow Han*, Ruchira Dhar*, <strong>Qingqing Yang*</strong>, Maryam Hoseini Behbahani, María Alejandra Martínez, Tolulope Oladele, Diana C Dima, Hsin-Hung Li<sup>#</sup>, Anders Søgaard<sup>#</sup>, Yalda Mohsenzadeh<sup>#</sup>. <em>Proceedings of Unireps Workshop, NeurIPS 2024.</em> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
@@ -30,7 +30,7 @@ title: Publications
 ### Scientific Presentation
 ##### Poster
 <div style="margin: 0; margin-bottom: 20px;">
-   <a href="https://jov.arvojournals.org/article.aspx?articleid=2809917&resultClick=1" style="color: blue;"> Reward Shapes Resource Allocation in Working Memory.</a> <strong>Qingqing Yang</strong>, Hsin-Hung Li<sup>#</sup>. <em>Vision Sciences Society (VSS2024)</em> 
+   <a href="https://jov.arvojournals.org/article.aspx?articleid=2809917&resultClick=1" style="color: blue;"> Reward Shapes Resource Allocation in Working Memory.</a> <strong>Qingqing Yang</strong>, Hsin-Hung Li<sup>#</sup>. <em>Vision Sciences Society (VSS2024).</em> 
 
 <div style="margin: 0; margin-bottom: 20px;">
    <a href="/mypaper/sfn_2024_noam_poster.pdf" style="color: blue;">Correspondence between computational decision-making phenotypes and transdiagnostic clinical symptomatology across development.</a> Noam Goldway, <strong>Qingqing Yang</strong>, Sophia Nielsen, Levi Solomyak, Sam Zorowitz, Eran Eldar<sup>#</sup>, Yael Niv<sup>#</sup>, Catherine Hartley<sup>#</sup>. <em>Society for Neuroscience (SfN2024). </em> <a href="https://www.abstractsonline.com/pp8/#!/20433/presentation/28650)" style="color:black;">[sfn program planner link] </a>
