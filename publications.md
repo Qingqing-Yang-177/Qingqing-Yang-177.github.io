@@ -30,7 +30,7 @@ title: Publications
 ### Scientific Presentation
 ##### Poster
 <div style="margin: 0; margin-bottom: 20px;">
-   <a href=https://jov.arvojournals.org/article.aspx?articleid=2809917&resultClick=1 style="color: blue;"> Reward Shapes Resource Allocation in Working Memory.</a> <strong>Qingqing Yang</strong>, Hsin-Hung Li<sup>#</sup>. <em>Vision Sciences Society (VSS2024)</em> 
+   <a href="https://jov.arvojournals.org/article.aspx?articleid=2809917&resultClick=1" style="color: blue;"> Reward Shapes Resource Allocation in Working Memory.</a> <strong>Qingqing Yang</strong>, Hsin-Hung Li<sup>#</sup>. <em>Vision Sciences Society (VSS2024)</em> 
 
 <div style="margin: 0; margin-bottom: 20px;">
    <a href="/mypaper/sfn_2024_noam_poster.pdf" style="color: blue;">Correspondence between computational decision-making phenotypes and transdiagnostic clinical symptomatology across development.</a> Noam Goldway, <strong>Qingqing Yang</strong>, Sophia Nielsen, Levi Solomyak, Sam Zorowitz, Eran Eldar<sup>#</sup>, Yael Niv<sup>#</sup>, Catherine Hartley<sup>#</sup>. <em>Society for Neuroscience (SfN2024). </em> <a href="https://www.abstractsonline.com/pp8/#!/20433/presentation/28650)" style="color:black;">[sfn program planner link] </a>
