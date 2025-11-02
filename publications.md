@@ -12,7 +12,7 @@ title: Publications
 `Lastest update: Oct 2024`
 
 <div style="margin: 0; margin-bottom: 20px;">
-  <a href="https://openreview.net/pdf?id=eYVFs6TfQ0" style="color: blue;">Efficient Allocation of Working Memory Resource for Utility Maximization in Humans and Recurrent Neural Networks.</a> <strong>Qingqing Yang*</strong>, Hsin-Hung Li. <em>Proceedings of Advances in Neural Information Processing Systems (NeurIPS 2025). </em> 
+  Efficient Allocation of Working Memory Resource for Utility Maximization in Humans and Recurrent Neural Networks. <strong>Qingqing Yang*</strong>, Hsin-Hung Li. <em>Proceedings of Advances in Neural Information Processing Systems (NeurIPS 2025). </em> <a href="https://openreview.net/pdf?id=eYVFs6TfQ0" style="color: blue;"> html </a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
