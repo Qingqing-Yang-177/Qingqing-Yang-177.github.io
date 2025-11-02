@@ -11,6 +11,9 @@ title: Publications
 </div>
 `Lastest update: Oct 2024`
 
+---
+### Papers
+
 <div style="margin: 0; margin-bottom: 20px;">
   Yang Q, Li HH (2025). <br>
   Efficient Allocation of Working Memory Resource for Utility Maximization in Humans and Recurrent Neural Networks. <br>
@@ -36,9 +39,7 @@ title: Publications
 </div>
 
 ---
-
-### Scientific Presentation
-#### Poster
+#### Posters
 <div style="margin: 0; margin-bottom: 20px;">
   Goldway N, Harhen N, Yang Q, et al (2025). <br>
   Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
