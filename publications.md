@@ -32,7 +32,7 @@ title: Publications
 ### Scientific Presentation
 #### Poster
 <div style="margin: 0; margin-bottom: 20px;">
-   Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. Noam Goldway, Nora Harhen, <strong>Qingqing Yang*</strong>, ..., Catherine Hartley. <em>Extended abstracts of CCN 2025.</em> <a href="https://openreview.net/pdf?id=oWlLOvK1oc" style="color: #1F2A44;">html</a> 
+   Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. Noam Goldway, Nora Harhen, <strong>Qingqing Yang</strong>, ..., Catherine Hartley. <em>Extended abstracts of CCN 2025.</em> <a href="https://openreview.net/pdf?id=oWlLOvK1oc" style="color: #1F2A44;">html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
