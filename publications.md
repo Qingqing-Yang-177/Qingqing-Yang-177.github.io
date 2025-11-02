@@ -23,7 +23,7 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
   Han HW*, Dhar R*, Yang Q*, et al (2024). <br>
  Investigating the role of modality and training objective on representational alignment between transformers and the brain. <br>
-  <em>Proceedings of Unireps Workshop, NeurIPS.</em> <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;"> html</a> 
+  <em>Proceedings of Unireps Workshop, NeurIPS.</em> <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;"> html, </a> <a href="https://proceedings.mlr.press/v285/han24a.htmlstyle="color: blue;">pmlr link</a>
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
