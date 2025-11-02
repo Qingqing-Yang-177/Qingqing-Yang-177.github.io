@@ -9,7 +9,7 @@ title: Publications
   *denotes equal contribution<br>
   <sup>#</sup>denotes corresponding author
 </div>
-`Lastest update: Oct 2024`
+`Lastest update: Oct 2025`
 
 ---
 ### Papers
