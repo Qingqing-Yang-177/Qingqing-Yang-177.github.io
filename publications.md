@@ -11,10 +11,12 @@ title: Publications
 </div>
 `Lastest update: Oct 2024`
 
-### Paper
+<div style="margin: 0; margin-bottom: 20px;">
+  <a href="https://openreview.net/pdf?id=eYVFs6TfQ0" style="color: blue;">Efficient Allocation of Working Memory Resource for Utility Maximization in Humans and Recurrent Neural Networks.</a> <strong>Qingqing Yang*</strong>, Hsin-Hung Li. <em>Proceedings of Advances in Neural Information Processing Systems (NeurIPS 2025). </em> 
+</div>
 
 <div style="margin: 0; margin-bottom: 20px;">
-  <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;">Investigating the role of modality and training objective on representational alignment between transformers and the brain.</a> Hyewon Willow Han*, Ruchira Dhar*, <strong>Qingqing Yang*</strong>, Maryam Hoseini Behbahani, María Alejandra Martínez, Tolulope Oladele, Diana C Dima, Hsin-Hung Li<sup>#</sup>, Anders Søgaard<sup>#</sup>, Yalda Mohsenzadeh<sup>#</sup>. <em>Proceedings of Unireps Workshop, NeurIPS 2024.</em> 
+  <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;">Investigating the role of modality and training objective on representational alignment between transformers and the brain.</a> Hyewon Willow Han*, Ruchira Dhar*, <strong>Qingqing Yang*</strong>, ..., Hsin-Hung Li<sup>#</sup>, Anders Søgaard<sup>#</sup>, Yalda Mohsenzadeh<sup>#</sup>. <em>Proceedings of Unireps Workshop, NeurIPS 2024.</em> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
@@ -22,22 +24,27 @@ title: Publications
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
-  <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;">Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention.</a> Ping Zhu*, <strong>Qingqing Yang*</strong>, Luo Chen, Chenxiao Guan, Jifan Zhou, Mowei Shen<sup>#</sup>, Hui Chen<sup>#</sup>. <em>Behavioral Sciences, 2023.</em>
+  <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;">Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention.</a> Ping Zhu*, <strong>Qingqing Yang*</strong>, ..., Mowei Shen<sup>#</sup>, Hui Chen<sup>#</sup>. <em>Behavioral Sciences, 2023.</em>
 </div>
 
 ---
 
 ### Scientific Presentation
-##### Poster
+#### Poster
 <div style="margin: 0; margin-bottom: 20px;">
-   <a href="https://jov.arvojournals.org/article.aspx?articleid=2809917&resultClick=1" style="color: blue;"> Reward Shapes Resource Allocation in Working Memory.</a> <strong>Qingqing Yang</strong>, Hsin-Hung Li. <em>Vision Sciences Society (VSS2024).</em> 
-
-<div style="margin: 0; margin-bottom: 20px;">
-   <a href="/mypaper/sfn_2024_noam_poster.pdf" style="color: blue;">Correspondence between computational decision-making phenotypes and transdiagnostic clinical symptomatology across development.</a> Noam Goldway, <strong>Qingqing Yang</strong>, Sophia Nielsen, Levi Solomyak, Sam Zorowitz, Eran Eldar<sup>#</sup>, Yael Niv<sup>#</sup>, Catherine Hartley<sup>#</sup>. <em>Society for Neuroscience (SfN2024). </em> <a href="https://www.abstractsonline.com/pp8/#!/20433/presentation/28650)" style="color:black;">[sfn program planner link] </a>
+   <a href="https://openreview.net/pdf?id=oWlLOvK1oc" style="color: blue;"> Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development.</a> Noam Goldway, Nora Harhen, <strong>Qingqing Yang*</strong>, ..., Catherine Hartley. <em>Extended abstracts of CCN 2025.</em> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
-  <a href="/mypaper/Frame4.pdf" style="color: blue;">Reliability of a Reinforcement-Learning Task Battery for Computational Phenotyping of Decision-Making in Adolescent Psychopathology.</a> Noam Goldway, Levi Solomyak, Gili Karni, Sam Zorowitz, Rachel Stollar, <strong>Qingqing Yang</strong>, Sophia Nielsen, Rosaura Cuevas, Greer Bizzell-Hatcher, Gal Shoval, Eran Eldar<sup>#</sup>, Yael Niv<sup>#</sup>, Catherine Hartley<sup>#</sup>. <em>Computational Psychiatry Conference (cpconf2023). </em>
+   <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> Reward Shapes Resource Allocation in Working Memory.</a> <strong>Qingqing Yang</strong>, Hsin-Hung Li. <em>Vision Sciences Society (VSS2024).</em> 
+</div>
+
+<div style="margin: 0; margin-bottom: 20px;">
+   <a href="/mypaper/sfn_2024_noam_poster.pdf" style="color: blue;">Correspondence between computational decision-making phenotypes and transdiagnostic clinical symptomatology across development.</a> Noam Goldway, <strong>Qingqing Yang</strong>, ..., Eran Eldar<sup>#</sup>, Yael Niv<sup>#</sup>, Catherine Hartley<sup>#</sup>. <em>Society for Neuroscience (SfN2024). </em> <a href="https://www.abstractsonline.com/pp8/#!/20433/presentation/28650)" style="color:black;">[sfn program planner link] </a>
+</div>
+
+<div style="margin: 0; margin-bottom: 20px;">
+  <a href="/mypaper/Frame4.pdf" style="color: blue;">Reliability of a Reinforcement-Learning Task Battery for Computational Phenotyping of Decision-Making in Adolescent Psychopathology.</a> Noam Goldway, ..., <strong>Qingqing Yang</strong>, ..., Eran Eldar<sup>#</sup>, Yael Niv<sup>#</sup>, Catherine Hartley<sup>#</sup>. <em>Computational Psychiatry Conference (cpconf2023). </em>
 </div>
 
 
