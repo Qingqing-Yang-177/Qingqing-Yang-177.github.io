@@ -4,14 +4,12 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Publications
 <div style="margin: 0; font-size: .9em; margin-bottom: 5px;">
   *denotes equal contribution<br>
   <sup>#</sup>denotes corresponding author
 </div>
-`Lastest update: Oct 2025`
+`Lastest update: Dec 2025`
 
----
 ### Papers
 
 <div style="margin: 0; margin-bottom: 20px;">
@@ -27,19 +25,20 @@ title: Publications
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
-  Xu Y, Yang Q (2024). <br>
- Attention redistribution during event segmentation in Large Language Model. <br>
-  <em>Behavioral ML Workshop, NeurIPS.</em> <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;"> html</a> 
-</div>
-
-<div style="margin: 0; margin-bottom: 20px;">
   Zhu P*, Yang Q*, et al (2023). <br>
  Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention. <br>
   <em>Behavioral Sciences.</em> <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;"> html</a> 
 </div>
 
 ---
-#### Posters
+### Abstracts and Workshop Proceedings
+
+<div style="margin: 0; margin-bottom: 20px;">
+ Yang Q, Li HH (2025). <br>
+ Reward Shapes Resource Allocation in Working Memory. <br>
+ <em>Vision Sciences Society (VSS).</em> <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> html</a> 
+</div>
+
 <div style="margin: 0; margin-bottom: 20px;">
   Goldway N, Harhen N, Yang Q, et al (2025). <br>
   Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
@@ -47,9 +46,9 @@ title: Publications
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
- Yang Q, Li HH (2024). <br>
- Reward Shapes Resource Allocation in Working Memory. <br>
- <em>Vision Sciences Society (VSS).</em> <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> html</a> 
+  Xu Y, Yang Q (2024). <br>
+ Attention redistribution during event segmentation in Large Language Model. <br>
+  <em>Behavioral ML Workshop, NeurIPS.</em> <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
