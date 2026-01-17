@@ -43,7 +43,7 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
   Goldway N, Harhen N, Yang Q, et al (2025). <br>
   Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
-  <em>Conference on Computational Cognitive Neuroscience (CCN Extended abstracts).</em> <a href="https://openreview.net/pdf?id=oWlLOvK1oc" style="color: blue;"> html</a> 
+  <em>Conference on Computational Cognitive Neuroscience (CCN Extended abstracts).</em> <a href="https://2025.ccneuro.org/abstract_pdf/Goldway_2025_Correspondence_reinforcement_learning_phenotypes_transdiagnostic_clinical.pdf" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
