@@ -17,9 +17,9 @@ I love computational modeling in general. I question how metal computation is re
 ---
 ### News
 
-- **[Aug 2025]** Our working memory resource allocation [paper](https://openreview.net/pdf?id=eYVFs6TfQ0) got accepted at NeurIPS 2025!
-  Our study shows that after learning stimulus–reward associations, both humans and RNNs maintain higher-value information with greater stability in working memory, where We introduce a normative account by extending efficient coding theory into the temporal domain with maximizing utility as the objective.
+- **[Aug 2025]** Our [paper](https://openreview.net/pdf?id=eYVFs6TfQ0) got accepted at NeurIPS 2025!
+  We shows that after learning stimulus–reward associations, both humans and RNNs maintain higher-value information with greater stability in working memory, where We introduce a normative account with maximizing utility as the objective.
 
 - **[May 2025]** I attended VSS 2025 to present a poster of working memory resource allocation project with preliminary behavioral results.
 
-- **[Dec 2024]** I attended NeurIPS 2024 Unireps workshop to present our project on how modality and training objectives influence the representational alignment between transformers and the brain during visual information processing. [paper](https://openreview.net/pdf?id=t4CnKu6yXn)
+- **[Dec 2024]** I attended NeurIPS 2024 Unireps workshop to present our project on how model modality and training objectives influence the transformers-brain alignment during visual encoding. [paper](https://openreview.net/pdf?id=t4CnKu6yXn)
