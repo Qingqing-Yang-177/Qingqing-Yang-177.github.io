@@ -19,9 +19,21 @@ title: Publications
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
+  Goldway N, Harhen N, Yang Q, et al (2025). <br>
+  Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
+  <em>Conference on Computational Cognitive Neuroscience (CCN Extended abstracts).</em> <a href="https://2025.ccneuro.org/abstract_pdf/Goldway_2025_Correspondence_reinforcement_learning_phenotypes_transdiagnostic_clinical.pdf" style="color: blue;"> html</a> 
+</div>
+
+<div style="margin: 0; margin-bottom: 20px;">
   Han HW*, Dhar R*, Yang Q*, et al (2024). <br>
  Investigating the role of modality and training objective on representational alignment between transformers and the brain. <br>
   <em>NeurIPS 2024 Unireps Workshop.</em> <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;"> html</a>, <a href="https://proceedings.mlr.press/v285/han24a.html" style="color: blue;">PMLR</a>, <a href="/mypaper/UniReps2024_poster.pdf" style="color: blue;"> poster</a> 
+</div>
+
+<div style="margin: 0; margin-bottom: 20px;">
+  Xu Y, Yang Q (2024). <br>
+ Attention redistribution during event segmentation in Large Language Model. <br>
+  <em>NeurIPS 2024 Behavioral ML Workshop.</em> <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
@@ -31,7 +43,7 @@ title: Publications
 </div>
 
 ---
-### Abstracts and Workshop Proceedings
+### Conference and Workshop Presentations
 
 <div style="margin: 0; margin-bottom: 20px;">
  Yang Q, Li HH (2025). <br>
@@ -40,30 +52,22 @@ title: Publications
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
-  Goldway N, Harhen N, Yang Q, et al (2025). <br>
-  Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
-  <em>Conference on Computational Cognitive Neuroscience (CCN Extended abstracts).</em> <a href="https://2025.ccneuro.org/abstract_pdf/Goldway_2025_Correspondence_reinforcement_learning_phenotypes_transdiagnostic_clinical.pdf" style="color: blue;"> html</a> 
-</div>
-
-<div style="margin: 0; margin-bottom: 20px;">
-  Xu Y, Yang Q (2024). <br>
- Attention redistribution during event segmentation in Large Language Model. <br>
-  <em>Behavioral ML Workshop, NeurIPS.</em> <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;"> html</a> 
-</div>
-
-<div style="margin: 0; margin-bottom: 20px;">
  Goldway N, Yang Q, et al (2024). <br>
  Correspondence between computational decision-making phenotypes and transdiagnostic clinical symptomatology across development.<br>
- <em>Society for Neuroscience (SfN).</em> <a href="/mypaper/sfn_2024_noam_poster.pdf" style="color: blue;"> poster</a>,  <a href="https://www.abstractsonline.com/pp8/#!/20433/presentation/28650)" style="color:blue;"> html </a>
+ <em>Poster presented at Society for Neuroscience (SfN).</em> <a href="/mypaper/sfn_2024_noam_poster.pdf" style="color: blue;"> poster</a>,  <a href="https://www.abstractsonline.com/pp8/#!/20433/presentation/28650)" style="color:blue;"> html </a>
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
   Goldway N, ..., Yang Q, et al (2023). <br>
   Reliability of a Reinforcement-Learning Task Battery for Computational Phenotyping of Decision-Making in Adolescent Psychopathology.<br>
-  <em>Computational Psychiatry Conference (cpconf).</em> <a href="/mypaper/Frame4.pdf" style="color: blue;"> poster</a> 
+  <em>Poster presented at Computational Psychiatry Conference (cpconf).</em> <a href="/mypaper/Frame4.pdf" style="color: blue;"> poster</a> 
 </div>
 
-
+<div style="margin: 0; margin-bottom: 20px;">
+ Yang Q, Li M, & Curtis C (2022). <br>
+ Modeling Effects of Interrupting Parietal Cortex Neural Activity on Working Memory Limit. <br>
+ <em>Talk presented at the fifth Neuromatch Conference.</em> <a href="mypaper/yang_qingqing_rmePoster_expectedresults.pdf" style="color: blue;"> poster</a> 
+</div>
 ---
 
 
