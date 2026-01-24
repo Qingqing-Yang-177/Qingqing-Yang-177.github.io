@@ -66,7 +66,7 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
  Yang Q, Li M, & Curtis C (2022). <br>
  Modeling Effects of Interrupting Parietal Cortex Neural Activity on Working Memory Limit. <br>
- <em>Talk presented at the fifth Neuromatch Conference.</em> <a href="mypaper/yang_qingqing_rmePoster_expectedresults.pdf" style="color: blue;"> poster</a> 
+ <em>Talk presented at the fifth Neuromatch Conference.</em> <a href="/mypaper/yang_qingqing_rmePoster_expectedresults.pdf" style="color: blue;"> poster</a> 
 </div>
 ---
 
