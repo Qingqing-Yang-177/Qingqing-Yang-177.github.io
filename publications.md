@@ -33,7 +33,7 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
   Xu Y, Yang Q (2024). <br>
   Attention redistribution during event segmentation in Large Language Model. <br>
-  <em>NeurIPS 2024 Behavioral ML Workshop.</em> <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;"> html</a> 
+  <em>NeurIPS 2024 Behavioral ML Workshop (Extended abstracts).</em> <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
