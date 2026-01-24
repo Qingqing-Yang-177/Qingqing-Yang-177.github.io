@@ -10,18 +10,18 @@ title: Publications
 </div>
 `Lastest update: Dec 2025`
 
-### Papers
+### Publications
 
 <div style="margin: 0; margin-bottom: 20px;">
   Yang Q, Li HH (2025). <br>
   Efficient Allocation of Working Memory Resource for Utility Maximization in Humans and Recurrent Neural Networks. <br>
-  <em>Proceedings of Advances in Neural Information Processing Systems (NeurIPS).</em> <a href="https://openreview.net/pdf?id=eYVFs6TfQ0" style="color: blue;"> html</a>, <a href="/mypaper/wmReward_nips25-2.pdf" style="color: blue;"> poster</a> 
+  <em>Neural Information Processing Systems (NeurIPS).</em> <a href="https://openreview.net/pdf?id=eYVFs6TfQ0" style="color: blue;"> html</a>, <a href="/mypaper/wmReward_nips25-2.pdf" style="color: blue;"> poster</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
   Han HW*, Dhar R*, Yang Q*, et al (2024). <br>
  Investigating the role of modality and training objective on representational alignment between transformers and the brain. <br>
-  <em>Proceedings of Unireps Workshop, NeurIPS.</em> <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;"> html</a>, <a href="https://proceedings.mlr.press/v285/han24a.html" style="color: blue;">PMLR</a>, <a href="/mypaper/UniReps2024_poster.pdf" style="color: blue;"> poster</a> 
+  <em>NeurIPS 2024 Unireps Workshop.</em> <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;"> html</a>, <a href="https://proceedings.mlr.press/v285/han24a.html" style="color: blue;">PMLR</a>, <a href="/mypaper/UniReps2024_poster.pdf" style="color: blue;"> poster</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
@@ -36,7 +36,7 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
  Yang Q, Li HH (2025). <br>
  Reward Shapes Resource Allocation in Working Memory. <br>
- <em>Vision Sciences Society (VSS).</em> <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> html</a> 
+ <em>Poster presented at Vision Sciences Society (VSS).</em> <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
