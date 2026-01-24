@@ -9,34 +9,16 @@ Hi, I am Qingqing Yang, and I am a PhD student in Cogitive Neuroscience at the O
 ---
 ### Research Interests
 
-- **Cognition:** visual perception, attention, memory, learning and decision making
+- **Cognition:** visual perception, memory, learning and decision making
 - **Neural Imaging:** fMRI, dMRI, EEG, TMS
 
 I love computational modeling in general. I question how metal computation is realized to perform complex functions among human and models, and how the deepened understanding of each aspect benefit each other.
 
 ---
-### Research Experience
+### News
 
-- **[Aug 2023 - Apr 2024]** as an Assistant Research Scientist @NYU<br>
-Work with [**Prof. Clay Curtis**](https://www.clayspacelab.com/lab), running a TMS, fMRI, and eye-tracking integrated spatial working memory study, which focuses on the role of parietal cortex.
-- **[Sep 2023 - Apr 2024]** as an Assistant Research Scientist @NYU<br>
-Work with [**Prof. Cate Hartley**](https://www.hartleylab.org/), and [**Dr. Noam Goldway**](https://scholar.google.com/citations?user=0tVFPecAAAAJ&hl=en), investigating the relationship among decision-making (RL parameters), developmental and psychiatric disorders, and their neural factors.
+- **[Aug 2025]** working memory resource allocation [paper](https://openreview.net/pdf?id=eYVFs6TfQ0) got accepted at NeurIPS 2025! Our study shows that after learning stimulus–reward associations, both humans and RNNs maintain higher-value information with greater stability in working memory. We also introduce a normative account by extending efficient coding theory into the temporal domain, and by shifting the objective from minimizing estimation error to maximizing utility.
 
+- **[May 2025]** I attended VSS to present a poster of working memory resource allocation project with preliminary behavioral results.
 
----
-### Academic Background
-
-- **[Aug 2023 - Expected 2030]** <br>
-The Ohio State University (OSU), PhD in CogNeuro
-- **[Sep 2021 - May 2023]** <br>
-New York University (NYU), M.A. in Psychology
-- **[Sep 2017 - June 2021]** <br>
-Zhejiang University (ZJU), B.S. in Psychology
-
----
-
-### Teaching 
-
-- **[Jan 2022 - Jun 2022]** Course Assistant
-  - [Advanced Psychological Statistics (Undergrad)](https://sites.google.com/nyu.edu/advpsystats22spring-recitation/home), New York University
-  - Lead weekly recitations about Stats with R, proctor exams, grade assignments, and hold office hours.
+- **[Dec 2024]** I attended NeurIPS Unireps workshop to present our project on how modality and training objectives influence the representational alignment between transformers and the brain during visual information processing. [paper](https://openreview.net/pdf?id=t4CnKu6yXn)
