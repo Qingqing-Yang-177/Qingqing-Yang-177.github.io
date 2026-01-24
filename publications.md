@@ -26,19 +26,19 @@ title: Publications
 
 <div style="margin: 0; margin-bottom: 20px;">
   Han HW*, Dhar R*, Yang Q*, et al (2024). <br>
- Investigating the role of modality and training objective on representational alignment between transformers and the brain. <br>
+  Investigating the role of modality and training objective on representational alignment between transformers and the brain. <br>
   <em>NeurIPS 2024 Unireps Workshop.</em> <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;"> html</a>, <a href="https://proceedings.mlr.press/v285/han24a.html" style="color: blue;">PMLR</a>, <a href="/mypaper/UniReps2024_poster.pdf" style="color: blue;"> poster</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
   Xu Y, Yang Q (2024). <br>
- Attention redistribution during event segmentation in Large Language Model. <br>
+  Attention redistribution during event segmentation in Large Language Model. <br>
   <em>NeurIPS 2024 Behavioral ML Workshop.</em> <a href="https://openreview.net/pdf?id=l0K0ADWKTq" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
   Zhu P*, Yang Q*, et al (2023). <br>
- Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention. <br>
+  Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention. <br>
   <em>Behavioral Sciences.</em> <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;"> html</a> 
 </div>
 
@@ -60,7 +60,7 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
   Goldway N, ..., Yang Q, et al (2023). <br>
   Reliability of a Reinforcement-Learning Task Battery for Computational Phenotyping of Decision-Making in Adolescent Psychopathology.<br>
-  <em>Poster presented at Computational Psychiatry Conference (cpconf).</em> <a href="/mypaper/Frame4.pdf" style="color: blue;"> poster</a> 
+  <em>Poster presented at Computational Psychiatry Conference.</em> <a href="/mypaper/Frame4.pdf" style="color: blue;"> poster</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
