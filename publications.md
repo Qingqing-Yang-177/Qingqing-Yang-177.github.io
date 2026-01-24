@@ -48,7 +48,7 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
   Yang Q, Li HH (2025). <br>
   Efficient Allocation of Working Memory Resource for Utility Maximization in Humans and Recurrent Neural Networks. <br>
-  <em>Poster presented at main track of Neural Information Processing Systems (NeurIPS). <a href="/mypaper/wmReward_nips25-2.pdf" style="color: blue;"> poster</a> 
+  <em>Poster presented at main conference of NeurIPS. <a href="/mypaper/wmReward_nips25-2.pdf" style="color: blue;"> poster</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
