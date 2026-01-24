@@ -22,4 +22,4 @@ I love computational modeling in general. I question how metal computation is re
 
 - **[May 2025]** I attended VSS 2025 to present a poster of working memory resource allocation project with preliminary behavioral results.
 
-- **[Dec 2024]** I attended NeurIPS 2024 Unireps workshop to present our project on how model modality and training objectives influence the transformers-brain alignment during visual encoding. [paper](https://openreview.net/pdf?id=t4CnKu6yXn)
+- **[Dec 2024]** I attended NeurIPS 2024 Unireps workshop to present our [paper](https://openreview.net/pdf?id=t4CnKu6yXn) on how model modality and training objectives influence the transformers-brain alignment during visual perception.
