@@ -20,6 +20,6 @@ I love computational modeling in general. I question how metal computation is re
 - **[Aug 2025]** Our [paper](https://openreview.net/pdf?id=eYVFs6TfQ0) got accepted at NeurIPS 2025!
   We shows that after learning stimulus–reward associations, both humans and RNNs maintain higher-value information with greater stability in working memory, where We introduce a normative account with maximizing utility as the objective.
 
-- **[May 2025]** I attended VSS 2025 to present a poster of working memory resource allocation project with preliminary behavioral results.
+- **[May 2025]** I attended VSS 2025 to present a poster of working memory resource allocation project.
 
-- **[Dec 2024]** I attended NeurIPS 2024 Unireps workshop to present our [paper](https://openreview.net/pdf?id=t4CnKu6yXn) on how model modality and training objectives influence the transformers-brain alignment during visual perception.
+- **[Dec 2024]** I attended NeurIPS 2024 Unireps workshop to present our [paper](https://openreview.net/pdf?id=t4CnKu6yXn) on how model modality and training objectives impact the brain-transformers alignment during visual perception.
