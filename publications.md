@@ -19,12 +19,6 @@ title: Publications
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
-  Goldway N, Harhen N, Yang Q, et al (2025). <br>
-  Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
-  <em>Conference on Computational Cognitive Neuroscience (CCN Extended abstracts).</em> <a href="https://2025.ccneuro.org/abstract_pdf/Goldway_2025_Correspondence_reinforcement_learning_phenotypes_transdiagnostic_clinical.pdf" style="color: blue;"> html</a> 
-</div>
-
-<div style="margin: 0; margin-bottom: 20px;">
   Han HW*, Dhar R*, Yang Q*, et al (2024). <br>
   Investigating the role of modality and training objective on representational alignment between transformers and the brain. <br>
   <em>NeurIPS 2024 Unireps Workshop.</em> <a href="https://openreview.net/pdf?id=t4CnKu6yXn" style="color: blue;"> html</a>, <a href="https://proceedings.mlr.press/v285/han24a.html" style="color: blue;">PMLR</a>, <a href="/mypaper/UniReps2024_poster.pdf" style="color: blue;"> poster</a> 
@@ -55,6 +49,12 @@ title: Publications
  Yang Q, Li HH (2025). <br>
  Reward Shapes Resource Allocation in Working Memory. <br>
  <em>Poster presented at Vision Sciences Society (VSS).</em> <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> html</a> 
+</div>
+
+<div style="margin: 0; margin-bottom: 20px;">
+  Goldway N, Harhen N, Yang Q, et al (2025). <br>
+  Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
+  <em>Poster presented at Conference on Computational Cognitive Neuroscience (CCN Extended abstracts).</em> <a href="https://2025.ccneuro.org/abstract_pdf/Goldway_2025_Correspondence_reinforcement_learning_phenotypes_transdiagnostic_clinical.pdf" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
