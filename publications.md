@@ -34,15 +34,15 @@ title: Publications
  <em>Talk presented at the 5th Neuromatch Conference, 2022.</em> <a href="/mypaper/yang_qingqing_rmePoster_expectedresults.pdf" style="color: blue;"> poster</a> 
  </div>
 
+<div style="margin: 0; margin-bottom: 20px;">
+  Goldway N, Harhen N, Yang Q, et al (in prep) <br>
+  Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
+</div>
+ 
  <div style="margin: 0; margin-bottom: 20px;">
   Goldway N, ..., Yang Q, et al (in prep) <br>
   Reliability of a reinforcement-learning task battery for computational phenotyping of decision-Making in adolescent psychopathology. <br>
   <em>Poster presented at Computational Psychiatry Conference, 2023.</em> <a href="/mypaper/Frame4.pdf" style="color: blue;"> poster</a> 
- </div>
-
- <div style="margin: 0; margin-bottom: 20px;">
-  Goldway N, Harhen N, Yang Q, et al (in prep) <br>
-  Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
  </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
