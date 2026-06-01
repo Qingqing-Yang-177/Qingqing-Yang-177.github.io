@@ -37,6 +37,7 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
   Goldway N, Harhen N, Yang Q, et al (in prep) <br>
   Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
+ <em>Poster presented at Society for Neuroscience (SfN), 2024.</em> <a href="/mypaper/sfn_2024_noam_poster.pdf" style="color: blue;"> poster</a>
 </div>
  
  <div style="margin: 0; margin-bottom: 20px;">
@@ -56,13 +57,13 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
  Yang Q, Li HH (2025). <br>
  Reward Shapes Resource Allocation in Working Memory. <br>
- <em>Poster presented at Vision Sciences Society (VSS).</em> <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> html</a> 
+ <em>Vision Sciences Society (VSS) Annual Meeting Abstract.</em> <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
   Goldway N, Harhen N, Yang Q, et al (2025). <br>
   Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
-  <em>Poster presented at Conference on Computational Cognitive Neuroscience (CCN Extended abstracts).</em> <a href="https://2025.ccneuro.org/abstract_pdf/Goldway_2025_Correspondence_reinforcement_learning_phenotypes_transdiagnostic_clinical.pdf" style="color: blue;"> html</a> 
+  <em>Conference on Computational Cognitive Neuroscience (CCN) Extended abstracts.</em> <a href="https://2025.ccneuro.org/abstract_pdf/Goldway_2025_Correspondence_reinforcement_learning_phenotypes_transdiagnostic_clinical.pdf" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
