@@ -4,22 +4,20 @@ layout: page
 
 ### About Me
 
-Hi, I am Qingqing Yang, and I am a PhD student in Cogitive Neuroscience at the Ohio State University from Aug 2024, working with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). `last update: Aug 2025`
+Hi, I am Qingqing Yang, and I am a PhD student in Psychology, focused on Cogitive Neuroscience at the Ohio State University from Aug 2024, working with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). `last update: Apr 2026`
 
 ---
 ### Research Interests
 
-- **Cognition:** visual perception, memory, learning and decision making
-- **Neural Imaging:** fMRI, dMRI, EEG, TMS
+- **Cognition:** visual perception, memory and decision-making
+- **Neural Imaging:** fMRI, TMS, EEG
 
-I love computational modeling in general. I question how metal computation is realized to perform complex functions among human and models, and how the deepened understanding of each aspect benefit each other.
+I question the neural mechanisms of the goal-directed behaviors in human visual system. 
 
 ---
 ### News
 
-- **[Aug 2025]** Our [paper](https://openreview.net/pdf?id=eYVFs6TfQ0) got accepted at NeurIPS 2025!
-  We shows that after learning stimulus–reward associations, both humans and RNNs maintain higher-value information with greater stability in working memory, where We introduce a normative account with maximizing utility as the objective.
+- **[Aug 2025]** Our [paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/534de24424a5056682502acd1fccb005-Paper-Conference.pdf) got accepted at NeurIPS 2025!
+  After learning stimulus–reward associations, higher-value information is maintained with greater stability in working memory. We introduce maximizing utility as the objective of WM, instead of minimizing error.
 
-- **[May 2025]** I attended VSS 2025 to present a poster of working memory resource allocation project.
-
-- **[Dec 2024]** I attended NeurIPS 2024 Unireps workshop to present our [paper](https://openreview.net/pdf?id=t4CnKu6yXn) on how model modality and training objectives impact the brain-transformers alignment during visual perception.
+- **[May 2025]** I attended VSS 2025 to present a poster showing working memory resource allocation is modulated by reward.
