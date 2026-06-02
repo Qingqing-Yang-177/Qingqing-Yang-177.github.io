@@ -6,18 +6,20 @@ layout: page
 
 Hi, I am Qingqing Yang, and I am a PhD student in Psychology, focused on Cogitive Neuroscience at the Ohio State University from Aug 2024, working with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). `last update: Apr 2026`
 
+I received a B.S. in Psychology from Zhejiang University in 2021, and M.A. in Psychology from New York University in 2023. Before coming to OSU, I worked as an assistant research scientist with Dr. Clayton Curtis on working memory, and Dr. Cate Hartley on decision making. 
+
 ---
 ### Research Interests
 
 - **Cognition:** visual perception, memory and decision-making
 - **Neural Imaging:** fMRI, TMS, EEG
 
-I question the neural mechanisms of the goal-directed behaviors in human visual system. 
+I question the neural mechanisms of the goal-directed behaviors in human visual system. Specifically, I study how our brain turns what we see into memory, and how this process is shaped by task goals and motivation.
 
 ---
 ### News
 
 - **[Aug 2025]** Our [paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/534de24424a5056682502acd1fccb005-Paper-Conference.pdf) got accepted at NeurIPS 2025!
-  After learning stimulus–reward associations, higher-value information is maintained with greater stability in working memory. We introduce maximizing utility as the objective of WM, instead of minimizing error.
+  After learning stimulus–reward associations, higher-value stimuli is maintained with greater stability in working memory (WM). We showed that instead of minimizing the error, the optimal goal of WM is to maximize reward. Big thanks to Hsin's supports!
 
-- **[May 2025]** I attended VSS 2025 to present a poster showing working memory resource allocation is modulated by reward.
+- **[May 2025]** I attended VSS 2025 to present a poster showing working memory precision is modulated by reward.
