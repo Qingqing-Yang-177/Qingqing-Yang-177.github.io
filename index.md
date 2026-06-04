@@ -7,7 +7,7 @@ layout: page
 Hi, I am Qingqing Yang, a PhD student in Psychology, focused on Cogitive Neuroscience at the Ohio State University from 2024, working with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). Here are my past education and experience:
 - [2017-2021] B.S. in Psychology from Zhejiang University
 - [2021-2023] M.A. in Psychology from New York University in 2023
-- [2023-2024] Assistant research scientist at NYU with Dr. Clayton Curtis and Dr. Cate Hartley
+- [2023-2024] Assistant research scientist at NYU with Clay Curtis and Cate Hartley
 
 ---
 ### Research Interests
