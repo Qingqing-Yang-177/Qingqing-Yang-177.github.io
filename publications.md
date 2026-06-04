@@ -52,7 +52,7 @@ title: Publications
 </div>
   
 ---
-### Conference Workshop Abstracts
+### Conference Workshops & Abstracts
 
 <div style="margin: 0; margin-bottom: 20px;">
  Yang Q, Li HH (2025). <br>
