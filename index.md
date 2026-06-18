@@ -3,17 +3,19 @@ layout: page
 ---
 
 ### About Me
-`last update: Apr 2026`
-Hi, I am Qingqing Yang, a PhD student in Psychology, focused on Cogitive Neuroscience at the Ohio State University from 2024, working with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). Here are my past education and experience:
+Hi, I am Qingqing Yang, a PhD student in Psychology, focused on Cogitive Neuroscience at the Ohio State University from 2024, working with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). `last update: Apr 2026`
+
+---
+### Past education and research experience:
 - [2017-2021] B.S. in Psychology from Zhejiang University
-- [2021-2023] M.A. in Psychology from New York University in 2023
+- [2021-2023] M.A. in Psychology from New York University
 - [2023-2024] Assistant research scientist at NYU with Clay Curtis and Cate Hartley
 
 ---
 ### Research Interests
 
-- **Cognition:** visual perception, memory and decision-making
-- **Neural Imaging:** fMRI, TMS, EEG
+- **Cognition:** visual perception, attention, memory and decision-making
+- **Neural Imaging:** fMRI, TMS
 
 I question the neural mechanisms of the goal-directed behaviors in human visual system. Specifically, I study how our brain turns what we see into memory, and how this process is shaped by task goals and motivation.
 
