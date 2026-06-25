@@ -14,7 +14,7 @@ Hi, I am Qingqing Yang, a PhD student in Psychology, focused on Cogitive Neurosc
 ---
 ### Research Interests
 
-- **Cognition:** visual perception, attention, memory and decision-making
+- **Cognition:** visual perception, memory and decision-making
 - **Neural Imaging:** fMRI, TMS
 
 I question the neural mechanisms of the goal-directed behaviors in human visual system. Specifically, I study how our brain turns what we see into memory, and how this process is shaped by task goals and motivation.
