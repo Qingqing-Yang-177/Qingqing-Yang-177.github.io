@@ -42,19 +42,13 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
   Han HW*, Dhar R*, Yang Q*, et al (2024). <br>
   Investigating the role of modality and training objective on representational alignment between transformers and the brain. <br>
-  <em>NeurIPS 2024 Unireps Workshop.</em>
+  <em>NeurIPS 2024 Unireps Workshop.</em> <a href="https://proceedings.mlr.press/v285/han24a.html" style="color: blue;"> html</a> 
 </div>
 
  <div style="margin: 0; margin-bottom: 20px;">
-  Goldway N, ..., Yang Q, et al (2023). <br>
-  Reliability of a reinforcement-learning task battery for computational phenotyping of decision-Making in adolescent psychopathology. <br>
-  <em>Poster presented at Computational Psychiatry Conference, 2023.</em> 
- </div>
-
- <div style="margin: 0; margin-bottom: 20px;">
- Yang Q, Curtis C (in prep). <br>
+ Yang Q, Curtis C (2022). <br>
  Effects of Interrupting Parietal Cortex Neural Activity on Working Memory Prioritization. <br>
- <em>Talk presented at the 5th Neuromatch Conference, 2022.</em> 
+ <em>Talk presented at the 5th Neuromatch Conference.</em> 
  </div>
 ---
 
