@@ -388,7 +388,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 /* Custom: make main article content wider */
 @media only screen and (min-width:37.5em) {
   #main article {
-    width: 65%;
+    width: 70%;
     margin-left: 0%;
     margin-right: 0%;
   }
@@ -401,6 +401,6 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 
 @media only screen and (min-width:86.375em) {
   #main article {
-    width: 58%;
+    width: 65%;
   }
 }
