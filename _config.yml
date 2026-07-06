@@ -40,7 +40,7 @@ links:
  #   url: /hobbies/
 
 
-timezone: US/New York EST
+timezone: America/New_York
 future: true
 highlighter: rouge
 # markdown: kramdown
