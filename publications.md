@@ -19,6 +19,12 @@ title: Publications
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
+  Han HW*, Dhar R*, Yang Q*, et al (2024). <br>
+  Investigating the role of modality and training objective on representational alignment between transformers and the brain. <br>
+  <em>NeurIPS 2024 Unireps Workshop.</em> <a href="https://proceedings.mlr.press/v285/han24a.html" style="color: blue;"> html</a> 
+</div>
+
+<div style="margin: 0; margin-bottom: 20px;">
   Zhu P*, Yang Q*, et al (2023). <br>
   Working-Memory-Guided Attention Competes with Exogenous Attention but Not with Endogenous Attention. <br>
   <em>Behavioral Sciences.</em> <a href="https://www.mdpi.com/2076-328X/13/5/426" style="color: blue;"> html</a> 
@@ -37,12 +43,6 @@ title: Publications
   Goldway N, Harhen N, Yang Q, et al (2025). <br>
   Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
   <em> Poster presented at Conference on Computational Cognitive Neuroscience (CCN) as Extended abstracts.</em> <a href="https://2025.ccneuro.org/abstract_pdf/Goldway_2025_Correspondence_reinforcement_learning_phenotypes_transdiagnostic_clinical.pdf" style="color: blue;"> html</a> 
-</div>
-
-<div style="margin: 0; margin-bottom: 20px;">
-  Han HW*, Dhar R*, Yang Q*, et al (2024). <br>
-  Investigating the role of modality and training objective on representational alignment between transformers and the brain. <br>
-  <em>NeurIPS 2024 Unireps Workshop.</em> <a href="https://proceedings.mlr.press/v285/han24a.html" style="color: blue;"> html</a> 
 </div>
 
  <div style="margin: 0; margin-bottom: 20px;">
