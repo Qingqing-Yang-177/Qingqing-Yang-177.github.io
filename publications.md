@@ -38,7 +38,7 @@ title: Publications
  <strong>Yang Q*</strong>, Han HW*, Song B, et al (2026). <br>
  Hierarchical Representational Transformations of Working Memory in Brains and Machines. <br>
  <em>Spotlight poster (top 10%) presented at Conference on Computational Cognitive Neuroscience (CCN).</em>
- <em>Vision Sciences Society (VSS) Annual Meeting Abstract.</em> 
+ <em>Poster presented at Vision Sciences Society (VSS) Annual Meeting as an Abstract.</em> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
@@ -50,7 +50,7 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
  <strong>Yang Q</strong>, Li HH (2025). <br>
  Reward Shapes Resource Allocation in Working Memory. <br>
- <em>Vision Sciences Society (VSS) Annual Meeting Abstract.</em> <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> html</a> 
+ <em>Poster presented at VSS as an Abstract.</em> <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
