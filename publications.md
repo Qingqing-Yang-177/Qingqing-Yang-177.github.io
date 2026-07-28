@@ -35,6 +35,19 @@ title: Publications
 ### Conference Presentations, Workshops & Abstracts
 
 <div style="margin: 0; margin-bottom: 20px;">
+ <strong>Yang Q*</strong>, Han HW*, Song B, et al (2026). <br>
+ Hierarchical Representational Transformations of Working Memory in Brains and Machines. <br>
+ <em>Spotlight poster (top 10%) presented at Conference on Computational Cognitive Neuroscience (CCN).</em>
+ <em>Vision Sciences Society (VSS) Annual Meeting Abstract.</em> 
+</div>
+
+<div style="margin: 0; margin-bottom: 20px;">
+ Han HW, <strong>Yang Q</strong>, Mohsenzadeh Y (2026). <br>
+ Concept Manifold Geometry Explains Asymmetry in Model–Brain Bidirectional Predictivity. <br>
+ <em>Talk and Spotlight poster (top 10%) presented at CCN.</em>
+</div>
+
+<div style="margin: 0; margin-bottom: 20px;">
  <strong>Yang Q</strong>, Li HH (2025). <br>
  Reward Shapes Resource Allocation in Working Memory. <br>
  <em>Vision Sciences Society (VSS) Annual Meeting Abstract.</em> <a href="https://doi.org/10.1167/jov.25.9.2217" style="color: blue;"> html</a> 
@@ -43,7 +56,7 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
   Goldway N, Harhen N, <strong>Yang Q</strong>, et al (2025). <br>
   Correspondence between reinforcement learning phenotypes and transdiagnostic clinical symptomatology across development. <br>
-  <em> Poster presented at Conference on Computational Cognitive Neuroscience (CCN) as Extended abstracts.</em> <a href="https://2025.ccneuro.org/abstract_pdf/Goldway_2025_Correspondence_reinforcement_learning_phenotypes_transdiagnostic_clinical.pdf" style="color: blue;"> html</a> 
+  <em> Poster presented at CCN as Extended abstracts.</em> <a href="https://2025.ccneuro.org/abstract_pdf/Goldway_2025_Correspondence_reinforcement_learning_phenotypes_transdiagnostic_clinical.pdf" style="color: blue;"> html</a> 
 </div>
 
  <div style="margin: 0; margin-bottom: 20px;">
