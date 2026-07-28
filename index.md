@@ -3,7 +3,7 @@ layout: page
 ---
 
 ### About Me
-Hi, I am Qingqing Yang, current PhD student in Cogitive Neuroscience at the Ohio State University. I work with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). `last update: Apr 2026`
+Hi, I am Qingqing Yang, current PhD student in Cognitive Neuroscience at the Ohio State University. I work with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). `last update: Apr 2026`
 
 ---
 ### Research Interests
@@ -21,7 +21,7 @@ I question the neural mechanisms of the goal-directed behaviors in human visual 
   
 ---
 ### News
-- **[Aug 2026]** I'll attend CCN 2026 to present a **spotlight poster** about how WM representations transform across different stages. There's also a collaborated work on how geometry properties explains model-brain bidirectional predictivity presented as a **spotlight poster and talk**. 
+- **[Aug 2026]** I'll attend CCN 2026 to present a **spotlight poster** about how WM representations transform across different stages. There'll also be a collaborated work on how manifold geometry explains model-brain bidirectional predictivity as a **spotlight poster and talk**.
 - **[Aug 2025]** Our [paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/534de24424a5056682502acd1fccb005-Paper-Conference.pdf) got accepted at NeurIPS 2025!
   After learning stimulus–reward associations, higher-value stimuli is maintained with greater stability in working memory (WM). We showed that instead of minimizing the error, the optimal goal of WM is to maximize reward. Big thanks to Hsin's supports!
 
