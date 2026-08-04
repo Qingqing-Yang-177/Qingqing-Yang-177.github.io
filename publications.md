@@ -38,13 +38,14 @@ title: Publications
  <strong>Yang Q*</strong>, Han HW*, Song B, et al (2026). <br>
  Hierarchical Representational Transformations of Working Memory in Brains and Machines. <br>
  <em>Spotlight poster (top 10%) presented at CCN.</em> <br>
- <em>Poster presented at Vision Sciences Society (VSS) Annual Meeting as an Abstract.</em> 
+ <em>Poster presented at Vision Sciences Society (VSS) Annual Meeting as an Abstract.</em> <a href="https://openreview.net/pdf?id=Da6XaUvXu7" style="color: blue;"> html</a> 
+  
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
  Han HW, <strong>Yang Q</strong>, Mohsenzadeh Y (2026). <br>
  Concept Manifold Geometry Explains Asymmetry in Model–Brain Bidirectional Predictivity. <br>
- <em>Talk and Spotlight poster (top 10%) presented at CCN.</em>
+ <em>Talk and Spotlight poster (top 10%) presented at CCN.</em> <a href="https://openreview.net/pdf?id=QruHiieHAG" style="color: blue;"> html</a> 
 </div>
 
 <div style="margin: 0; margin-bottom: 20px;">
