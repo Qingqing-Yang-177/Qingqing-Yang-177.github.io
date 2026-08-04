@@ -37,8 +37,8 @@ title: Publications
 <div style="margin: 0; margin-bottom: 20px;">
  <strong>Yang Q*</strong>, Han HW*, Song B, et al (2026). <br>
  Hierarchical Representational Transformations of Working Memory in Brains and Machines. <br>
- <em>Spotlight poster (top 10%) presented at CCN.</em> <br>
- <em>Poster presented at Vision Sciences Society (VSS) Annual Meeting as an Abstract.</em> <a href="https://openreview.net/pdf?id=Da6XaUvXu7" style="color: blue;"> html</a> 
+ <em>Spotlight poster (top 10%) presented at CCN.</em> <a href="https://openreview.net/pdf?id=Da6XaUvXu7" style="color: blue;"> html</a> <br>
+ <em>Poster presented at Vision Sciences Society (VSS) Annual Meeting as an Abstract.</em> 
   
 </div>
 
