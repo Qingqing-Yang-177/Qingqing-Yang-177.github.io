@@ -3,7 +3,7 @@ layout: page
 ---
 
 ### About Me
-Hi, I am Qingqing Yang, current PhD student in Cognitive Neuroscience at the Ohio State University. I work with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). `last update: July 2026`
+Hi, I am Qingqing (like "Chin'Chin") Yang, current PhD student in Cognitive Neuroscience at the Ohio State University. I work with [Prof. Hsin-Hung Li](https://www.hsinhungli.com/) and [Prof. Julie Golomb](https://u.osu.edu/golomblab/). `last update: July 2026`
 
 ---
 ### Research Interests
