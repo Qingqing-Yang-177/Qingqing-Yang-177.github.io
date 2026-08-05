@@ -22,7 +22,7 @@ I question the neural mechanisms of the goal-directed behaviors in human visual 
   
 ---
 ### News
-- **[Aug 2026]** I'll attend *CCN 2026* to present a <u>spotlight poster</u> </em> (<a href="https://openreview.net/pdf?id=Da6XaUvXu7" style="color: blue;">link</a>) on WM representational changes across processing stages.
+- **[Aug 2026]** I'll attend *CCN 2026* to present a <u>spotlight poster</u> (<a href="https://openreview.net/pdf?id=Da6XaUvXu7" style="color: blue;">link</a>) on WM representational changes across processing stages.
 
   There'll also be a collaborated work presented as a <u>spotlight poster and talk</u> (<a href="https://openreview.net/pdf?id=QruHiieHAG" style="color: blue;">link</a>) on how manifold geometry explains model-brain bidirectional predictivity.
 - **[Aug 2025]** Our <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/534de24424a5056682502acd1fccb005-Paper-Conference.pdf" style="color: blue;"> paper</a> got accepted at *NeurIPS 2025*!
